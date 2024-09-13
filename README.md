@@ -1,0 +1,1 @@
+If you’ve ever played the classic Brick Breaker game, where the goal was to eliminate all the bricks in each level by bouncing your ball off them, then you’ll love building this game! We’ll use an array to keep track of how many times each brick has been hit, as well as to determine when there are no more bricks left on the board.
